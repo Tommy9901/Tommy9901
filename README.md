@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/imakshath/imakshath/master/1%20IRGHmiGsa16stedQvIaZfw.gif" width="1000" alt="coding" style="border-radius: 15px"/>
 
-<h1 align="center">Hi 👋, I'm Temuujin</h1>
+<h1 align="center">Hi 👋, I'm Tuguldur</h1>
 <h3 align="center">A passionate fullstack developer from Mongolia</h3>
 
 - 🔭 I’m currently working on [E-commerece](e-commerceee-web.vercel.app)
