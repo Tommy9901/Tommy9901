@@ -55,11 +55,11 @@
 ### 📊 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tommy9901&show_icons=true&locale=en&layout=compact" width="450" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tommy9901&show_icons=true&locale=en&layout=compact" width="400" alt="Top Languages" />
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tommy9901&show_icons=true&locale=en" width="450" alt="GitHub Stats" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Tommy9901&show_icons=true&locale=en" width="400" alt="GitHub Stats" />
 </p>
 
 <p align="center">
